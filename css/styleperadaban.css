@@ -122,6 +122,56 @@ Home Slider
    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fduniaq.com%2Fwp-content%2Fuploads%2F2016%2F07%2Fpasukan-perang-bangsa-Romawi-768x432.jpg&f=1&nofb=1&ipt=3d8d4b1aff54fd9cce2b5654b905ecc8bed8c10a9b137747b92ec2a91d8d2aa8&ipo=images);
 }
 
+/* pertengahan */
+
+.swiper-image-pertengahanone {
+   background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/66/Meister_von_San_Vitale_in_Ravenna_003.jpg);
+}
+
+.swiper-image-pertengahantwo {
+   background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/cd/Cleric-Knight-Workman.jpg);
+}
+
+.swiper-image-pertengahanthree {
+   background-image: url(https://cdn.britannica.com/90/690-050-19E64E7C/Carolingian-empire-divisions-Treaty-of-Verdun.jpg);
+}
+
+.swiper-image-pertengahanfour {
+   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F53%2F92%2F89%2F5392890883475cc44c6dd40ea1bc2acd.jpg&f=1&nofb=1&ipt=53a4099268bece9c8d9750ece9805360b0678175ae143de23aa2a82c3e2756c9&ipo=images);
+}
+
+.swiper-image-pertengahanfive {
+   background-image: url(https://2.bp.blogspot.com/-kbXlvK3y9S0/XFLJR0IESnI/AAAAAAAAAh8/lKzXUOfk_T48VXR4uFgkpWBg9wc3lcU9ACLcBGAs/w1200-h630-p-k-no-nu/30%2BFakta%2BLuar%2BBiasa%2BBangsa%2BViking.jpg);
+}
+
+.swiper-image-pertengahansix {
+   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-GVH1PkPVbfs%2FVSwZ1Oe8KFI%2FAAAAAAAAAlY%2FRtHDXgthCo0%2Fs1600%2Fperahu%252Bbangsa%252Bviking.jpg&f=1&nofb=1&ipt=6e5f701988d9fe7e09a75fb0c72a3064a63a3371d4f8ccd1d23c6a1307295448&ipo=images);
+}
+
+.swiper-image-pertengahanseven {
+   background-image: url(https://cdn1.katadata.co.id/media/images/thumb/2022/02/07/Pieter_Bruegel_the_Elder_The_Harvesters_1565-2022_02_07-11_32_04_5f5d331de5774f33e93dcfdeb75b66f6_960x640_thumb.jpg);
+}
+
+.swiper-image-pertengahaneight {
+   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-6z2pKcuVrmg%2FXqKa-LuGYRI%2FAAAAAAAAARY%2F-OLR7QLDL3QqIep6n3BIj0whgbJrPBP-gCLcBGAsYHQ%2Fs1600%2FFragmen_of_battle_of_arbela_painting_by_charles_le_brun.jpg&f=1&nofb=1&ipt=9c20276874158d182703399cc49083913d75aa322b7839e78f48b8970a6699f7&ipo=images);
+}
+
+.swiper-image-pertengahannine {
+   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-6Wm4WcTGzZY%2FWJU7KD5plNI%2FAAAAAAAAALY%2FrJ_jHnGjYLkmJuNsnhgAsyOASDi1QQbtQCLcB%2Fw1200-h630-p-k-no-nu%2Fmuslim%252B1.jpg&f=1&nofb=1&ipt=cc31089926a41fc21a789fee574ef6c42cf1526cceb5549d856f492784b258eb&ipo=images);
+}
+
+.swiper-image-pertengahanten {
+   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwawasansejarah.com%2Fwp-content%2Fuploads%2F2016%2F06%2FIlustrasi-kota-Baghdad-1.png&f=1&nofb=1&ipt=93046bde4022a82d554f704fb03b4abe25b87b1f99bfcb27ae1a4037d597e82b&ipo=images);
+}
+
+.swiper-image-pertengahaneleven {
+   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-X5jLn_L5qM0%2FWIs88qLRwfI%2FAAAAAAAABeo%2F_BgAb5PEl-4HJSx5RloVRjHLlcFBSdNZQCLcB%2Fs1600%2FUntitled.jpg&f=1&nofb=1&ipt=15416dfb28ff96467aa23372a1a458927c4fc066cac52394893c37cc1b9bcb4d&ipo=images);
+}
+
+.swiper-image-pertengahantwelve {
+   background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.idntimes.com%2Fcontent-images%2Fcommunity%2F2019%2F06%2Fsecond-crusade-e1545315930595-0b568aca8554d7476a4217b72a1f92e8.jpg&f=1&nofb=1&ipt=66ce71490e586d842dc475c66620443f5bd892e82808b1aae0687cca3ba5ade4&ipo=images);
+}
+
 .swiper-image {
    width: 50%;
    height: 100%;
